@@ -55,7 +55,7 @@ objects:
       name: ${APPLICATION_NAME}
     name: ${APPLICATION_NAME}
   spec:
-    host: ${APPLICATION_NAME}.cloudapps.testdrive.com
+    host: ${APPLICATION_NAME}.mxcfe-55e3.openshiftworkshop.com
     port:
       targetPort: 8080
     to:
